@@ -1,3 +1,6 @@
+Proyect for the subjet "Sistemas de Información" in Universidad de Zaragoza. This proyect mixes the concept of Tripadvisor, Uber Eats and Reddit implementing a complete web system in Ruby On Rails that allows users to browse nearby restaurants, review their dishes, interact with other users about common food-related topics, post in any of the discussion forums or comment about any restaurant or dish. As a restaurant owner you can list your restaurants and upload your menu and info, post as a restaurant owner and receive information on the interaction of users with your restaurants. As an extra we implemented the comunication process with a group that developed the Uber Eats aspect to be able to order food and manage your orders. We provided them with comments about the restaurant and dishes, along with star reviews on each dish.
+
+
 --------- DEPENDENCIES (for Ubuntu) ---------
 Postgres client
 
